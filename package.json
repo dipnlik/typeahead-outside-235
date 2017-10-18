@@ -2,6 +2,7 @@
   "name": "typeahead-outside-235",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dipnlik.github.io/typeahead-outside-235/",
   "dependencies": {
     "bootstrap": "3",
     "react": "^16.0.0",
